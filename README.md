@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nail Burak Kolay</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Credit Application System**
+- 🔭 I’m currently working on **OCE 17**
 
 - 🌱 I’m currently learning **Java Spring**
 
